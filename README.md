@@ -100,3 +100,7 @@ This project is a reproduction of the following paper:
   * **Authors:** Sumaiya Dabeer, Maha Mohammed Khan, Saiful Islam
   * **Publication Date:** 10 Oct 2019
   * **Link:** [https://www.sciencedirect.com/science/article/pii/S2352914819301133](https://www.sciencedirect.com/science/article/pii/S2352914819301133)
+
+and the use the following database:
+  * **Title** Breast Cancer Histopathological Database (BreakHis)
+  * **Link** [https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
